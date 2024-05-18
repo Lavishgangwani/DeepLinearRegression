@@ -1,8 +1,6 @@
----
+# Linear Regression Insight 
 
-# Linear Regression Insight
-
-Welcome to Linear Regression Insight, your comprehensive guide to understanding and implementing linear regression models from scratch. Whether you're new to machine learning or seeking to deepen your understanding, this repository is your go-to resource.
+Welcome to Linear Regression Insight, your comprehensive guide to understanding and implementing linear regression models from scratch. Whether you're new to machine learning or seeking to deepen your understanding, this repository is your go-to resource.!
 
 ## Overview
 
