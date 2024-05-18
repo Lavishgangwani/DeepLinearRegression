@@ -23,7 +23,7 @@ We welcome contributions from the community! Whether it's fixing a bug, adding n
 
 ## Contact
 
-Have questions or feedback? Feel free to reach out to us! You can contact the repository maintainer at [maintainer@example.com](mailto:lavishgangwani22@gmail.com) or open an issue on GitHub.
+Have questions or feedback? Feel free to reach out to us! You can contact the repository maintainer at [mailto:lavishgangwani22@gmail.com] or open an issue on GitHub.
 
 ## License
 
