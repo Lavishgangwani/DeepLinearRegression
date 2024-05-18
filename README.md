@@ -28,7 +28,3 @@ Have questions or feedback? Feel free to reach out to us! You can contact the re
 ## License
 
 This repository is licensed under the MIT License. See the LICENSE file for more details.
-
----
-
-Feel free to customize this README template further to suit your specific repository content and style preferences!
